@@ -6,11 +6,11 @@
 - password_generator.ipynb contains the code for the Password generator.
 
 ### Number Guessing
-- A programme that chooses a random number from 0 to 20 as a guess answer
-- Player inputs a guess.
+- A programme that chooses a random number from 0 to 20 
+- Player has to guess the number 
 - Programme tells you if the value is too low or too high. 
-- You get to guess another number if guess is incorrect. 
-- Programme terminates only when you guess the right number.
+- Player gset to guess another number if guess is incorrect. 
+- Programme terminates only when you the guess is correct.
 
 
 ### Password Generator
