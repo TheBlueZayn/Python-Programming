@@ -15,7 +15,7 @@
 
 ### Password Generator
 - A programme that generates a random password.
-- The password will be a minimum of 6 characters with numbers, letters and ***figures
+- The password will be a minimum of 6 characters with numbers, upper and lowercase letters and symbols
 - Player gets to choose the length of the password with a minimum of 6 characters.
 - They also get to choose the number of letters and numbers in the password.
 - It returns a random password.
